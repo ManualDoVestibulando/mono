@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/ManualDoVestibulando/core
+[submodule "data"]
+	path = data
+	url = https://github.com/ManualDoVestibulando/data
+[submodule "formLambda"]
+	path = formLambda
+	url = https://github.com/ManualDoVestibulando/formLambda
