@@ -4,6 +4,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/ManualDoVestibulando/data
-[submodule "formLambda"]
-	path = formLambda
-	url = https://github.com/ManualDoVestibulando/formLambda
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/ManualDoVestibulando/lambda
