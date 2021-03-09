@@ -7,3 +7,6 @@
 [submodule "lambda"]
 	path = lambda
 	url = https://github.com/ManualDoVestibulando/lambda
+[submodule "dataprovider"]
+	path = dataprovider
+	url = https://github.com/ManualDoVestibulando/dataprovider
