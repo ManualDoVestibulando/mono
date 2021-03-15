@@ -10,3 +10,6 @@
 [submodule "dataprovider"]
 	path = dataprovider
 	url = https://github.com/ManualDoVestibulando/dataprovider
+[submodule "site"]
+	path = site
+	url = https://github.com/ManualDoVestibulando/site
